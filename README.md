@@ -37,8 +37,7 @@ I found these websites useful in developing this software:
 * W3 Schools - https://www.w3schools.com/cpp/
 *   I utilized this resource the most, it has a lot of amazing documentation on commands and how the syntax works in the language.
 * ChatGPT - https://chatgpt.com/
-*   I utilized this resource to help me discover some commands that were not documented in W3 Schools, for example it helped me discover a simple command that would ignore the cin input before a user inputs a value for the variable which helped me fix a bug in my code.
-*   The command is called cin.ignore();
+*   I utilized this resource to help me discover some commands that were not documented in W3 Schools, for example it helped me discover a simple command that would ignore the cin input before a user inputs a value for the variable which helped me fix a bug in my code. The command was called "cin.ignore();" I also had help with other commands as well, but that was my biggest issure I ran into.
 * Youtube - https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=3s
 *   I didn't utilize this resource as much as I orignial planned because of how much I enjoyed W3 School's C++ tutorial, I think I watched part of one video and didn't really incorpate what I watched into the this project, nonetheless I still wanted to cite it.
 
